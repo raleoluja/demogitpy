@@ -4,7 +4,8 @@ pasta
 soup
 chicken fry
 
-
+beans
+pizza
 
 
 
