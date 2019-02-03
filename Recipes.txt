@@ -4,10 +4,14 @@ pasta
 soup
 chicken fry
 
-
+beans
+pizza
 
 
 
 thank you!
+
+Done!
+
 
 Final copy
